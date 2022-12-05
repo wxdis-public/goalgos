@@ -31,5 +31,3 @@ graph TD
     I(14)
     J(18)
 ```
-
-If the tree exhibits the behaviour above, it is said to be _balanced_ - however if a binary search tree is not balanced, then it shouldn't be considered a binary search tree.
