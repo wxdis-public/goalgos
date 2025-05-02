@@ -1,0 +1,1 @@
+module github.com/wxdis-public/goalgos/graph
